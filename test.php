@@ -1,4 +1,4 @@
-<?php
+sss<?php
 require 'vendor/autoload.php';
 
 $foaf = new \EasyRdf\Graph("http://njh.me/foaf.rdf");
